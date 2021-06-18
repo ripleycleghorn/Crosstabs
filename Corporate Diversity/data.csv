@@ -1,21 +1,21 @@
 Brand,Metric,Customer,Non-customer
-BrandA,Committed-Consideration,554,403
-BrandA,Not Committed-Consideration,16,39
-BrandA,Committed-Favorability,545,415
-BrandA,Not Committed-Favorability,11,35
-BrandB,Committed-Consideration,813,638
-BrandB,Not Committed-Consideration,32,43
-BrandB,Committed-Favorability,811,614
-BrandB,Not Committed-Favorability,28,41
-BrandC,Committed-Consideration,1013,311
-BrandC,Not Committed-Consideration,23,44
-BrandC,Committed-Favorability,999,327
-BrandC,Not Committed-Favorability,23,39
-BrandD,Committed-Favorability,1143,485
-BrandD,Not Committed-Favorability,26,27
-BrandD,Committed-Consideration,1133,550
-BrandD,Not Committed-Consideration,26,25
-BrandE,Committed-Consideration,1418,638
-BrandE,Not Committed-Consideration,79,18
-BrandE,Committed-Favorability,644,822
-BrandE,Not Committed-Favorability,27,49
+BrandA,Cons.-Perceive as Diverse,554,403
+BrandA,Cons.-Do NOT Perceive as Diverse,16,39
+BrandA,Fav.- Perceive as Diverse,545,415
+BrandA,Fav.- Do NOT Perceive as Diverse,11,35
+BrandB,Cons.-Perceive as Diverse,813,638
+BrandB,Cons.-Do NOT Perceive as Diverse,32,43
+BrandB,Fav.- Perceive as Diverse,811,614
+BrandB,Fav.- Do NOT Perceive as Diverse,28,41
+BrandC,Cons.-Perceive as Diverse,1013,311
+BrandC,Cons.-Do NOT Perceive as Diverse,23,44
+BrandC,Fav.- Perceive as Diverse,999,327
+BrandC,Fav.- Do NOT Perceive as Diverse,23,39
+BrandD,Fav.- Perceive as Diverse,1143,485
+BrandD,Fav.- Do NOT Perceive as Diverse,26,27
+BrandD,Cons.-Perceive as Diverse,1133,550
+BrandD,Cons.-Do NOT Perceive as Diverse,26,25
+BrandE,Cons.-Perceive as Diverse,1418,638
+BrandE,Cons.-Do NOT Perceive as Diverse,79,18
+BrandE,Fav.- Perceive as Diverse,644,822
+BrandE,Fav.- Do NOT Perceive as Diverse,27,49
